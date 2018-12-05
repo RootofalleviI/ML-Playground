@@ -1,2 +1,3 @@
 # ML-Playground
-Dumping random jupyter notebooks here
+
+A collection of jupyter notebooks
